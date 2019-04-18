@@ -4,6 +4,7 @@
 //
 //  Created by Justin Chao on 4/18/19.
 //  Copyright © 2019 RadiUs Group 7. All rights reserved.
+//  Final project group 7
 //
 
 import UIKit
